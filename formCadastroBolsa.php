@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
 <div class="container" style="margin-top:30px; margin-bottom:30px"> <!-- container  principal o formulario  da pagina tudo que esta em baixo do cabeçalho ate antes do rodapé-->
-    <h2>Cadastro do Bolsa Familia Assistência Social Município de Imbaú</h2> 
+    <h2>Cadastro do Município de Imbaú</h2> 
     <p><span>*Campo obrigatório</span><p>
     <form action="actionCadastroBolsa.php" method="POST" name="formBolsa" enctype="multipart/form-data">
         <div class="form-group">
